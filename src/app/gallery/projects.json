@@ -1631,12 +1631,16 @@
     "githubUsername": "studyloops37238",
     "imageSrc": "/gallery/screenshots/recGMWzedvoALJ3Wb.webp"
 
-    "recordId": "daveneuroresearch-MotorMind",
-    "projectName": "MotorMind",
-    "demoUrl": "https://github.com/daveneuroresearch-del/MotorMind",
-    "codeUrl": "https://github.com/daveneuroresearch-del/MotorMind",
-    "githubUsername": "daveneuroresearch",
-    "imageSrc": "daveneuroresearch-MotorMind.webp",
+
+
+    {"recordId": "daveneuroresearch-del-motormind", 
+    "projectName": "MotorMind", 
+    "demoUrl": "https://www.youtube.com/watch?v=HTSukJsmGYg", 
+    "codeUrl": "https://github.com/daveneuroresearch-del/MotorMind", 
+    "githubUsername": "daveneuroresearch-del", 
+    "imageSrc": "/gallery/placeholder.svg",
+  
+  }
     
   }
 ]
